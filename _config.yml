@@ -1,7 +1,7 @@
 # Site settings
 title: Yeongbin Hwang
 description: Yeongbin Hwang / 황영빈
-url: https://yhlee0078.github.io
+url: https://yeongbin-hwang.github.io/myPortfolio/
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
 timezone:          Asia/Seoul
@@ -25,9 +25,8 @@ username: Yeongbin Hwang
 user_title: Security Researcher
 user_description: >
   I am a M.S. student <a href="https://www.syssec.kr/" target="_blank">
-  @KAIST SysSec Lab</a>. My research interest is to find, analyze, and exploit software and hardware vulnerabilities.
-  Especially, I'm putting my effort into offensive IoT, Embedded, and CPS(Cyber-Physical System) security.    
-  And Since 2018, I've been participating in major CTFs as a member of <a href="https://www.facebook.com/cistcykor" target="_blank"> @CyKor</a>.
+  @KAIST SysSec Lab</a>. My research interest is to find, analyze, and exploit software and hardware vulnerabilities in cellular network.
+  Especially, I'm putting my effort into offensive 5G core network security.    
 email: hyb3565800@gmail.com
 # twitter: lorem_ipsum
 github: yeongbin-hwang
