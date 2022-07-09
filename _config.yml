@@ -1,6 +1,6 @@
 # Site settings
-title: Yonghwa Lee
-description: Yonghwa Lee / 이용화
+title: Yeongbin Hwang
+description: Yeongbin Hwang / 황영빈
 url: https://yhlee0078.github.io
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
@@ -21,15 +21,15 @@ sass:
   sass_dir: _sass
 
 # User settings
-username: Yonghwa Lee
+username: Yeongbin Hwang
 user_title: Security Researcher
 user_description: >
   I am a M.S. student <a href="https://www.syssec.kr/" target="_blank">
   @KAIST SysSec Lab</a>. My research interest is to find, analyze, and exploit software and hardware vulnerabilities.
   Especially, I'm putting my effort into offensive IoT, Embedded, and CPS(Cyber-Physical System) security.    
   And Since 2018, I've been participating in major CTFs as a member of <a href="https://www.facebook.com/cistcykor" target="_blank"> @CyKor</a>.
-email: yhlee0078@kaist.ac.kr
+email: hyb3565800@gmail.com
 # twitter: lorem_ipsum
-github: yhlee0078
-facebook: yonghwa.lee.188
+github: yeongbin-hwang
+facebook: 
 # gplus_username:  lorem_ipsum
