@@ -1,29 +1,46 @@
 <div class="user-details">
-  <h1> Featured Projects </h1>
+  <h1> Projects </h1>
 </div>
 <div class="user-projects">
   <div class="images-right">
-    <img alt="mountains" src="{{ "/assets/img/mountains.jpg" | prepend: site.baseurl }}" />
+    <img alt="mountains" src="{{ "/assets/img/man-in-the-middle.jpg" | prepend: site.baseurl }}" />
   </div>
   <div class="contents">
-    <h3> Project Title </h3>
+    <h3> MitM(Man in the Middle) implementation in LTE </h3>
     <ul>
-      <li> Featured Skills</li>
+      <li> Fake UE and Fake eNB: C++, C</li>
+      <li> MitM relay: Python</li>
     </ul>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <p>MitM environment was built in LTE network to verify vulnerabilities found through formal verification. In the case of Fake gNB and Fake UE, it was executed through srsRAN, and a program to relay messages between the two entities was made using python.</p>
     <a class="project-link" href="#">Check it out</a>
   </div>
 </div>
 <div class="user-projects">
   <div class="images-left">
-    <img alt="mountains" src="{{ "/assets/img/skate.jpg" | prepend: site.baseurl }}" />
+    <img alt="mountains" src="{{ "/assets/img/LG_state.jpg" | prepend: site.baseurl }}" />
   </div>
   <div class="contents-right">
-    <h3> Project Title </h3>
+    <h3> LTE Fuzzing </h3>
     <ul>
-      <li> Featured Skills</li>
+      <li> UE simulator: C++, C</li>
+      <li> Message Analyzer(CLI based): Python</li>
     </ul>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <p> We tried to find vulnerabilities by conducting fuzzing tests on LTE networks. The UE simulator for testing was implemented based on srsRAN, and the analyzer for analyzing the results was implemented in the form of Ubuntu CLI using python.</p>
+    <a class="project-link" href="#">Check it out</a>
+  </div>
+</div>
+<div class="user-projects">
+  <div class="images-right">
+    <img alt="mountains" src="{{ "/assets/img/5g_architecture.jpg" | prepend: site.baseurl }}" />
+  </div>
+  <div class="contents">
+    <h3> 5G Core Network Testing </h3>
+    <ul>
+      <li> UE, gNB emulator: C, Docker, Kubernetes</li>
+      <li> 5G Core Network: C, Docker, Kubernetes</li>
+      <li> Packet forwarding: Python</li>
+    </ul>
+    <p>From 5G, each network entity runs a container-based program. In the case of 5G Core Network, each network entity is implemented and managed using kubernetes. To test this, UE and gNB emulator were implemented using kubernetes, and the program for packet forwarding was made in python.</p>
     <a class="project-link" href="#">Check it out</a>
   </div>
 </div>

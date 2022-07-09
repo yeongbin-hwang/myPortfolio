@@ -1,11 +1,11 @@
 - major: Programming Language
-  minor: C, C++, Python(with Django), Java & Kotlin, JavaScript(with Node.js)
+  minor: C, C++, Python, JavaScript(with Node.js)
   
 - major: Operating System
-  minor: Linux - Ubuntu, CentOS / Unix - macOS
+  minor: Linux - Ubuntu
 
 - major: Server Management  
   minor: Amazon AWS EC2, Container (Docker & Kubernetes)
   
-- major: Hardware Development & Reverse Engineering
-  minor: Drone, LTE & Bluetooth modules, EVB boards, etc.
+- major: Hardware Development
+  minor: Software Defined Radio(SDR), LTE modules, etc.
