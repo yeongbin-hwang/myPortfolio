@@ -1,7 +1,7 @@
 # Site settings
 title: Yeongbin Hwang
 description: Yeongbin Hwang / 황영빈
-url: https://yeongbin-hwang.github.io/myPortfolio/
+url: https://yeongbin-hwang.github.io
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
 timezone:          Asia/Seoul
