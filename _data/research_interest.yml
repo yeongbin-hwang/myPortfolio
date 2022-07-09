@@ -1,8 +1,8 @@
+- major: Cellular & Mobile Security
+  minor: Fuzzing Test / Control Plane Analysis / USIM, eSIM
+  
+- major: 5G Core Network
+  minor: Container Based Core Network / 5G Private Network
+  
 - major: Software Security
   minor: Reverse Engineering / Firmware analysis
-  
-- major: Embedded & CPS Security
-  minor: Drone / IoT devices (Router, E-Scooter, SIM Box, etc.)
-  
-- major: Cellular & Mobile Security
-  minor: Device fingerprinting / Cellular localization 
